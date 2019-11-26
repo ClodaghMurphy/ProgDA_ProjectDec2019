@@ -1,2 +1,44 @@
 # ProgDA_ProjectDec2019
-GMIT Programming for Data Analysis Project, last commit 13 December 2019
+This repository contains an assessment submitted as GMIT Programming for Data Analysis Project, last commit 13 December 2019
+Course Higher Diploma in Data Analytics, GMIT, Ireland
+The Lecturer is Dr. Brian McGinley
+Author: Clodagh Murphy
+Email: G00376300@gmit.ie
+Dates: November and December 2019
+
+## Plan for ProgDA Project based on the marking scheme
+Intial Steps: Creategithub repository, create notebook, prepare project plan
+Research: Investigation of the data set as demonstrated by references, background information, and approach
+Development: Clear, well-written, and efficient code with appropriate comments.
+Consistency: Good planning and pragmatic attitude to work as evidenced by commit history.
+Documentation: Concise descriptions and plots of variables in the data set.
+Conclusion: Summarise findings of the analysis.
+
+## 1. Introduction
+The assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter.
+It consists of a jupyter notebook that uses descriptive statistics and plots to describe the tips dataset.
+The notebook also contains a section that discusses and analyses whether there is a relationship between 
+(a) the total bill and tip amount and 
+(b) the variables within the dataset generally. 
+
+## 2. Instructions for downloading this repository
+Log on to GitHub and search for user ClodaghMurphy, the repository is entitled ProgDA_ProjectDec2019.<br>
+On github.com choose the "Clone or download" button to copy the code onto your machine.<br>
+For further information on how github works video guides are available here https://www.youtube.com/githubguides<br>
+
+## 3. How to run the jupyter notebook containing this project 
+Jupyter Notebooks are a spin-off project from the IPython project. The name, Jupyter, comes from the programming languages that it supports: Julia, Python, and R.<br>
+It is an open source web application used to create and share documents that contain live code, equations, visualizations and text.<br>
+The Jupyter Notebook is a useful tool to learn Python language and also enables sharing of data and images in a very accessible way.<br>
+In order to install: On the command line, $ pip install jupyter<br>
+After intall, on terminal, type the command: $ jupyter notebook<br>
+Jupyter will initialise in the background and your default browser will pop up in a new tab connecting to webserver.<br> http://localhost:8888/tree<br>
+The terminal will simultaneously display instructions on how to stop the connection to that webserver in addition to URL details that <br>contain a unique token.<br>
+
+http://localhost:8888/?token=XXXXXYYYYY123456789<br>
+Chrome and firefox are the optimal web browsers to use and you may need to copy the url into one of these instead of using the default<br> pop-up.<br>
+You are running the Jupyter server and can use it to open and engage with my repository contents.<br>
+
+## 4. Summary of the Assessment
+
+## 5. References used in completing the project
