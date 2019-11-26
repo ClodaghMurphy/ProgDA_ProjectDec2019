@@ -51,9 +51,17 @@ You are running the Jupyter server and can use it to open and engage with my rep
 
 ## 5. References used in completing the project
 
+Changing data type in pandas<br>
+https://www.ritchieng.com/pandas-changing-datatype/<br>
 
 How do I fix a Unicode error while reading a CSV file with a pandas library in Python 3.6?<br>
 https://www.quora.com/How-do-I-fix-a-Unicode-error-while-reading-a-CSV-file-with-a-pandas-library-in-Python-3-6<br>
 
 How to select several rows when reading a csv file using pandas?<br>
 https://stackoverflow.com/questions/47917943/how-to-select-several-rows-when-reading-a-csv-file-using-pandas<br>
+
+Python | Pandas Split strings into two List/Columns using str.split()<br>
+https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/<br>
+
+The Pandas DataFrame – loading, editing, and viewing data in Python<br>
+https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/<br>
