@@ -53,4 +53,7 @@ You are running the Jupyter server and can use it to open and engage with my rep
 
 
 How do I fix a Unicode error while reading a CSV file with a pandas library in Python 3.6?<br>
-https://www.quora.com/How-do-I-fix-a-Unicode-error-while-reading-a-CSV-file-with-a-pandas-library-in-Python-3-6
+https://www.quora.com/How-do-I-fix-a-Unicode-error-while-reading-a-CSV-file-with-a-pandas-library-in-Python-3-6<br>
+
+How to select several rows when reading a csv file using pandas?<br>
+https://stackoverflow.com/questions/47917943/how-to-select-several-rows-when-reading-a-csv-file-using-pandas<br>
