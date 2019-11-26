@@ -6,13 +6,21 @@ Author: Clodagh Murphy
 Email: G00376300@gmit.ie
 Dates: November and December 2019
 
+• Choose a real-world phenomenon that can be measured and for which you could
+collect at least one-hundred data points across at least four different variables.
+• Investigate the types of variables involved, their likely distributions, and their
+relationships with each other.
+• Synthesise/simulate a data set as closely matching their properties as possible.
+• Detail your research and implement the simulation in a Jupyter notebook – the
+data set itself can simply be displayed in an output cell within the notebook.
+
 ## Plan for ProgDA Project based on the marking scheme
-Intial Steps: Creategithub repository, create notebook, prepare project plan
-Research: Investigation of the data set as demonstrated by references, background information, and approach
-Development: Clear, well-written, and efficient code with appropriate comments.
-Consistency: Good planning and pragmatic attitude to work as evidenced by commit history.
-Documentation: Concise descriptions and plots of variables in the data set.
-Conclusion: Summarise findings of the analysis.
+Intial Steps: Creategithub repository, create notebook, prepare project plan.<br>
+Research: Investigation of the OPW Heritage Site Details data set as demonstrated by references, background information and approach.<br>
+Development: Clear, well-written, and efficient code with appropriate comments.<br>
+Consistency: Good planning and pragmatic attitude to work as evidenced by commit history.<br>
+Documentation: Concise descriptions and plots of variables in the data set.<br>
+Conclusion: Summarise findings of the analysis.<br>
 
 ## 1. Introduction
 The assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter.
@@ -42,3 +50,7 @@ You are running the Jupyter server and can use it to open and engage with my rep
 ## 4. Summary of the Assessment
 
 ## 5. References used in completing the project
+
+
+How do I fix a Unicode error while reading a CSV file with a pandas library in Python 3.6?<br>
+https://www.quora.com/How-do-I-fix-a-Unicode-error-while-reading-a-CSV-file-with-a-pandas-library-in-Python-3-6
