@@ -54,6 +54,9 @@ You are running the Jupyter server and can use it to open and engage with my rep
 Changing data type in pandas<br>
 https://www.ritchieng.com/pandas-changing-datatype/<br>
 
+Dan Friedman's Data Science Knowledge Base
+https://dfrieds.com/<br>
+
 How do I fix a Unicode error while reading a CSV file with a pandas library in Python 3.6?<br>
 https://www.quora.com/How-do-I-fix-a-Unicode-error-while-reading-a-CSV-file-with-a-pandas-library-in-Python-3-6<br>
 
