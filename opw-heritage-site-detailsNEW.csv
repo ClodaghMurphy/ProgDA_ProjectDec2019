@@ -1,7 +1,29 @@
 ﻿Name,County,Admission Charges,Adult,Senior,Group,Child,Student,Family,Region,2015 Visitor Numbers
-Adare Castle,Co. Limerick,"Adult: EUR 6.00
-Child/Student/Senior EUR 5.00
-Family: EUR 15.00",6,5,5,5,5,15,Shannon,0
+Rathcroghan - Royal Celtic Site,Co. Roscommon,"Exhibition: 
+Adult:            EUR 7.00 
+Senior:          EUR 6.00 
+Student:       EUR 6.00 
+Child:             EUR 3.00 
+Groups 10+: EUR 4.00 
+
+Site Tour: 
+Adult:            EUR 5.00 
+Senior:          EUR 4.00 
+Student:       EUR 4.00 
+Child:             EUR 3.00 
+Groups 10+: EUR 4.50 
+
+Combined: 
+Adult:             EUR 10.00 
+Senior:             EUR 8.00 
+Student:          EUR 8.00 
+Child:                EUR 6.00 
+Groups 10+:    EUR 7.00 
+
+Min charge of EUR 20 for site tours 
+Family = 2 Adults, up to 5 children. 
+
+Please note the OPW Heritage Card and Free Wednesdays initiative allow for free admission to the exhibition rooms only.",7,6,6,3,6,20,West,0
 Altamont Gardens,Co. Carlow,"Free, except for pre-booked guided tours.
 
 Pre-booked Guided Tour Charges: 
@@ -9,165 +31,39 @@ EUR 3.00
 
 (Charges subject to change when house opens)
 ",0,0,0,0,0,0,South-East,58435
-Aras an Uachtarain,Dublin,"Free admission tickets are issued at the Phoenix Park Visitor Centre only on the day, on a first-come, first-served basis. Group visits and/or advance bookings are not permitted.",0,0,0,0,0,0,Dublin,4343
-Arbour Hill Cemetery,Dublin,Free,0,0,0,0,0,0,Dublin,0
-Ardfert Cathedral,Co. Kerry,"Adult: EUR 5.00
-
-Sen/Group: EUR 4.00
-
-Child/Student: EUR 3.00
-
-Family: EUR 13.00
-",5,4,4,3,3,13,Shannon,7802
-Athenry Castle,Co. Galway,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,West,10848
-Aughnanure Castle,Co. Galway,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,West,36929
-Ballyhack Castle,Co. Wexford,Free,0,0,0,0,0,0,South-East,2613
-Barryscourt Castle,Co.Cork,Free,0,0,0,0,0,0,South-West,0
-Battle of the Boyne,Co. Meath,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00
-Free admission to the grounds (battlesite walkways).",5,4,4,3,3,13,Midlands & East Coast,58053
-Boyle Abbey,Co. Roscommon,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,West,6919
-Bru na Boinne Visitor Centre Newgrange and Knowth,Co. Meath,"A Adult: EUR 4.00
-Sen/Group: EUR 3.00
-Child/Student: EUR 3.00
-Family: EUR 10.00
-
-B Adult: EUR 7.00
-Sen/Group: EUR 6.00
-Child/Student EUR 4.00
-Family: EUR 16.00
-
-C Adult: EUR 6.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 4.00
-Family: EUR 14.00
-
-D Adult: EUR 12.00
-Sen/Group: EUR 9.00
-Child/Student: EUR 7.00
-Family: EUR 30.00
-
-Debit and Credit Cards accepted.",12,9,9,7,7,30,Midlands & East Coast,263887
-Cahir Castle,Co. Tipperary,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00
-Please note there are no credit and debit card facilities at this site.",5,4,4,3,3,13,South-East,68532
-Carrowmore Megalithic Cemetery,Co. Sligo,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,North-West,37566
-Casino Marino,Dublin,"Adult: EUR 7.00 
-Sen/Group: EUR 5.00 
-Child/Student: EUR 3.00 
-Family: EUR 12.00 
-OPW, English and Friends of Manx Heritage Cards + Dublin Pass accepted. 
-
-Free admission for Primary or Second Level pupils, as well as pupils attending special needs schools or special needs classes. For terms and conditions see our Home page under Free Educational Visits for Schools Scheme.",7,5,5,3,3,12,Dublin,18141
-Castletown House and Parklands,Co. Kildare,"Adult: EUR 10.00 -Guided
-              EUR 8.00 -Self-Guided 
-Senior Citizen/Group: 
-                 EUR 8.00 -Guided
-                 EUR 5.00 -Self-Guided 
-Students/Children: 
-                 EUR 5.00 -Guided
-                 EUR 3.50 -Self-Guided 
-Family: EUR 25.00 -Guided
-                EUR 15.00 -Self-Guided 
-",10,8,8,5,5,15,Midlands & East Coast,297691
-Ceide Fields,Co. Mayo,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,West,32821
-Charles Fort,Co. Cork,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-West,86849
-Clonmacnoise,Co. Offaly,"Adult: EUR 8.00 
-Group/Senior: EUR 6.00 
-Child/Student: EUR 4.00 
-Family: EUR 20.00 
-Credit/Debit Cards are both accepted. 
-
-All groups must be pre-booked.",8,6,6,4,4,20,Midlands & East Coast,157660
-Connemara National Park,Co. Galway,Free,0,0,0,0,0,0,West,0
-Coole Park,Co. Galway,Free,0,0,0,0,0,0,West,0
-Corlea Trackway Visitor Centre,Co. Longford,Free,0,0,0,0,0,0,Midlands & East Coast,5331
-Derrynane House,Co. Kerry,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-West,26961
-Desmond Castle,Co. Cork,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-West,9493
-Desmond Hall,Co. Limerick,Free,0,0,0,0,0,0,Shannon,11150
-Donegal Castle,Co. Donegal,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,North-West,47136
-Doneraile Wildlife Park,Co. Cork,Free,0,0,0,0,0,0,South-West,0
 Dromore Wood,Co. Clare,Free,0,0,0,0,0,0,Shannon,0
-Dublin Castle,Dublin,"Guided Tour (1hr 5min) (State Apartments, Medieval Undercroft and Chapel Royal) 
-Adult: EUR 10.00
-Student/Senior (60+): EUR 8.00
-Group: EUR 5.50
-Children: EUR 4.00
-Family: EUR 24.00
-
-Self-Guide (State Apartments and Exhibitions) 
-Adult: EUR 7.00
-Student/Senior (60+): EUR 6.00
-Group: EUR 5.50
-Children: EUR 3.00
-Family: EUR 17.00",10,8,6,4,8,24,Dublin,231178
-Dun Aonghasa,Co. Galway,"Adult: EUR 5.00 
-Sen/Group: EUR 4.00 
-Child/Student: EUR 3.00 
-Family: EUR 13.00 
-Free admission when staying overnight on Inis Mor participating accommodation.",5,4,4,3,3,13,West,120104
-Dungarvan Castle,Co. Waterford,Free,0,0,0,0,0,0,South-East,17280
-Dunmore Cave,Co. Kilkenny,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-East,43767
-Dwyer McAllister Cottage,Co. Wicklow,Free,0,0,0,0,0,0,Midlands & East Coast,0
-Emo Court,Co. Laois,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,13244
 Ennis Friary,Co. Clare,"Adult: EUR 5.00
 Sen/Group: EUR 4.00
 Child/Student: EUR 3.00
 Family: EUR 13.00",5,4,4,3,3,13,Shannon,11377
-Famine Warhouse,Co. Tipperary,Free,0,0,0,0,0,0,South-East,0
-Farmleigh House and Estate,Dublin,Free,0,0,0,0,0,0,Dublin,410076
-Ferns Castle,Co. Wexford,Free,0,0,0,0,0,0,South-East,9440
+Scattery Island Centre,Co. Clare,Free,0,0,0,0,0,0,Shannon,1750
+Barryscourt Castle,Co. Cork,Free,0,0,0,0,0,0,South-West,0
+Charles Fort,Co. Cork,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,South-West,86849
+Desmond Castle,Co. Cork,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,South-West,9493
+Doneraile Wildlife Park,Co. Cork,Free,0,0,0,0,0,0,South-West,0
 Fota Arboretum and Gardens,Co. Cork,"Free. There is no admission charge to Fota Arboretum & Gardens. Site is state-owned and managed by OPW) It is independent of all other enterprises on the island i.e. Fota House, Fota Wildlife Park, etc.",0,0,0,0,0,0,South-West,0
-Gallarus Oratory,Co. Kerry,"Access to Gallarus Oratory is FREE, but there is a charge for using the private facilities in the visitor centre - the Heritage Card cannot be used.",0,0,0,0,0,0,South-West,3212
-Gallarus Castle,Co. Kerry,Free,0,0,0,0,0,0,South-West,51816
-Garden of Remembrance,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Ilnacullin (Garinish Island) Cork,Co. Cork,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00
+
+A seperate charge is imposed by boat operators.",5,4,4,3,3,13,South-West,58557
+Donegal Castle,Co. Donegal,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,North-West,47136
 Glebe House & Gallery,Co. Donegal,"Adult: EUR 5.00 
 Sen/Group: EUR 4.00 
 Child/Student: EUR 3.00 
 Family: EUR 13.00 
 
 Gallery - Free of charge. ",5,4,4,3,3,13,North-West,23085
-Glendalough Visitor Centre,Co. Wicklow,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,79182
 Glenveagh National Park and Glenveagh Castle,Co. Donegal,"Castle:
 Adult: EUR 7.00 
 Group/Senior Citizen: EUR 3.00 Groups of 20+: Bus & Castle Tour EUR 7.00 
@@ -188,48 +84,47 @@ Guided Walks or Guided Garden Tours: EUR 5.00 Adult
 Guided Hill Walks: EUR 10.00 
 
 Admission to the Park and Visitor Centre is Free",7,3,3,5,5,15,North-West,0
-Government Buildings,Dublin,Free,0,0,0,0,0,0,Dublin,0
-Grangegorman Military Cemetery,Dublin,Free,0,0,0,0,0,0,Dublin,0
-Grianan of Aileach,Co. Donegal,Free,0,0,0,0,0,0,,107968
-Heywood Gardens,Co. Laois,Free,0,0,0,0,0,0,Midlands & East Coast,0
-Hill of Tara,Co. Meath,"Adult: EUR 5.00
+Grianan of Aileach,Co. Donegal,Free,0,0,0,0,0,0,North-West,107968
+Newmills Corn and Flax Mills,Co. Donegal,Free,0,0,0,0,0,0,North-West,4173
+Athenry Castle,Co. Galway,"Adult: EUR 5.00
 Sen/Group: EUR 4.00
 Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,159686
-Ilnacullin (Garinish Island) Cork,Co. Cork,"Adult: EUR 5.00
+Family: EUR 13.00",5,4,4,3,3,13,West,10848
+Aughnanure Castle,Co. Galway,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,West,36929
+Connemara National Park,Co. Galway,Free,0,0,0,0,0,0,West,0
+Coole Park,Co. Galway,Free,0,0,0,0,0,0,West,0
+Dun Aonghasa,Co. Galway,"Adult: EUR 5.00 
+Sen/Group: EUR 4.00 
+Child/Student: EUR 3.00 
+Family: EUR 13.00 
+Free admission when staying overnight on Inis Mor participating accommodation.",5,4,4,3,3,13,West,120104
+Portumna Castle and Gardens,Co. Galway,"Adult: EUR 5.00 
+Sen/Group: EUR 4.00 
+Child/Student: EUR 3.00 
+Family: EUR 13.00 ",5,4,4,3,3,13,West,14237
+Teach An Phiarsaigh (Patrick Peasrse's Cottage),Co. Galway,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,West,8946
+Ardfert Cathedral,Co. Kerry,"Adult: EUR 5.00
+
 Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00
 
-A seperate charge is imposed by boat operators.",5,4,4,3,3,13,South-West,58557
-Jerpoint Abbey,Co. Kilkenny,"Adult: EUR 5.00
+Child/Student: EUR 3.00
+
+Family: EUR 13.00
+",5,4,4,3,3,13,Shannon,7802
+Derrynane House,Co. Kerry,"Adult: EUR 5.00
 Sen/Group: EUR 4.00
 Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-East,23442
-Kilkenny Castle,Co. Kilkenny,"Adult: EUR 8.00 
-Senior/Group (20+): EUR 6.00 
-Student/Child (over 6): EUR 4.00 
-Family: EUR 20+S94.00 ",8,6,6,4,4,20,South-East,282588
+Family: EUR 13.00",5,4,4,3,3,13,South-West,26961
+Gallarus Oratory,Co. Kerry,"Access to Gallarus Oratory is FREE, but there is a charge for using the private facilities in the visitor centre - the Heritage Card cannot be used.",0,0,0,0,0,0,South-West,3212
+Gallarus Castle,Co. Kerry,Free,0,0,0,0,0,0,South-West,51816
 Killarney National Park,Co. Kerry,Free,0,0,0,0,0,0,South-West,0
-Kilmacurragh Arboretum,Co. Wicklow,Free,0,0,0,0,0,0,Midlands & East Coast,67083
-Kilmainham Gaol,Dublin,"Online prices:
-Adult: EUR 8.00
-Senior: EUR 6.00
-Child/Student: EUR 4.00
-Family: EUR 20.00
-
-Walk-in prices:
-Adult: EUR 9.00
-Senior: EUR 7.00
-Child/Student: EUR 5.00
-Family: EUR 23.00
-Please note that these tickets are very limited and it is advisable to book your tickets in advance. 
-
-Credit/Debit cards are both accepted.",9,7,9,5,5,23,Dublin,326635
 Listowel Castle,Co. Kerry,Free,0,0,0,0,0,0,Shannon,8110
-Loughcrew,Co. Meath,Free,0,0,0,0,0,0,Midlands & East Coast,14416
-Lusk Heritage Centre,Co. Dublin,Free,0,0,0,0,0,0,Midlands & East Coast,0
-Maynooth Castle,Co. Kildare,Free,0,0,0,0,0,0,Midlands & East Coast,21843
 Muckross House and Gardens,Co. Kerry,"Muckross House & Gardens
 Adult: EUR 9.00 
 Group/Sen/Student: EUR 7.50
@@ -268,120 +163,95 @@ Family
 
 PLEASE NOTE - THIS SITE DOES NOT ACCEPT HERITAGE CARDS ",9,8,8,6,8,32,South-West,0
 Muckross Friary (Abbey),Co. Kerry,Free,0,0,0,0,0,0,South-West,0
-National Botanic Gardens,Dublin,"Free admission.
-
-Pre-booked Guided Tours - EUR 5.00, except for the free Sunday public tours. School tours are free of charge. Two public tours on weekdays: 11:30 and 15:00
- 
-Car parking charges:
-First 15mins free
-First hour EUR 1.00
-Two hours EUR 2.00, 
-then EUR 2.00 per hour",0,0,0,0,0,0,Dublin,553348
-Newmills Corn and Flax Mills,Co. Donegal,Free,0,0,0,0,0,0,North-West,4173
-Old Mellifont Abbey,Co. Louth,"Adult: EUR 5.00 
-Sen/Group: EUR 4.00 
-Child/Student: EUR 3.00 
-Family: EUR 13.00 ",5,4,4,3,3,13,Midlands & East Coast,12493
-Ormond Castle,Co. Tipperary,"Adult: EUR 5.00 
-Sen/Group: EUR 4.00 
-Child/Student: EUR 3.00 
-Family: EUR 13.00 ",5,4,4,3,3,13,South-East,0
-Parke's Castle,Co. Leitrim,"Adult: EUR 5.00 
-Sen/Group: EUR 4.00 
-Child/Student: EUR 3.00 
-Family: EUR 13.00 ",5,4,4,3,3,13,North-West,16620
-Pearse Museum - St Enda's Park,Dublin,Free,0,0,0,0,0,0,Dublin,35418
-Peoples Flower Gardens,Dublin,Free,0,0,0,0,0,0,Dublin,0
-Phoenix Park,Dublin,Free,0,0,0,0,0,0,Dublin,0
-Phoenix Park Visitor Centre - Ashtown Castle,Dublin,Free,0,0,0,0,0,0,Dublin,141582
-Portumna Castle and Gardens,Co. Galway,"Adult: EUR 5.00 
-Sen/Group: EUR 4.00 
-Child/Student: EUR 3.00 
-Family: EUR 13.00 ",5,4,4,3,3,13,West,14237
-Rathcroghan - Royal Celtic Site,Co Roscommon,"Exhibition: 
-Adult:            EUR 7.00 
-Senior:          EUR 6.00 
-Student:       EUR 6.00 
-Child:             EUR 3.00 
-Groups 10+: EUR 4.00 
-
-Site Tour: 
-Adult:            EUR 5.00 
-Senior:          EUR 4.00 
-Student:       EUR 4.00 
-Child:             EUR 3.00 
-Groups 10+: EUR 4.50 
-
-Combined: 
-Adult:             EUR 10.00 
-Senior:             EUR 8.00 
-Student:          EUR 8.00 
-Child:                EUR 6.00 
-Groups 10+:    EUR 7.00 
-
-Min charge of EUR 20 for site tours 
-Family = 2 Adults, up to 5 children. 
-
-Please note the OPW Heritage Card and Free Wednesdays initiative allow for free admission to the exhibition rooms only.",7,6,6,3,6,20,West,0
-Rathfarnham Castle,Dublin,"Adult: EUR 8.00
-Sen/Group: EUR 6.00
-Child/Student: EUR 4.00
-Family: EUR 20.00",8,6,6,4,4,20,Dublin,3737
-Reginalds Tower,Co. Waterford,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-East,30818
-"Reginald's Tower - Greyfriars, The French Church",Co. Waterford,,0,0,0,0,0,0,South-East,69057
-Rock of Cashel,Co. Tipperary,"Adult: EUR 8.00 
-Group/Senior: EUR 6.00 
-Child/Student: EUR 4.00 
-Family: EUR 20.00",8,6,6,4,4,20,South-East,300749
-Roscrea Heritage Centre - Roscrea Castle and Damer House,Co. Tipperary,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,25715
 Ross Castle,Co. Kerry,"Adult: EUR 5.00
 Sen/Group: EUR 4.00
 Child/Student: EUR 3.00
 Family: EUR 13.00",5,4,4,3,3,13,South-West,95785
-Royal Hospital Kilmainham,Dublin,Free,0,0,0,0,0,0,Dublin,0
-Scattery Island Centre,Co. Clare,Free,0,0,0,0,0,0,Shannon,1750
 Sceilg Mhichil (Great Skellig Rock [Skellig Michael]),Co. Kerry,"Free of Charge
 
 Separate charge imposed by boat operator(s).",0,0,0,0,0,0,South-West,12560
-Sligo Abbey,Co. Sligo,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,North-West,15592
-St Audoen's Church,Dublin,Free,0,0,0,0,0,0,Dublin,33092
-St Marys Abbey Dublin,Dublin,Free,0,0,0,0,0,0,Dublin,0
-St Marys Church,Co. Kilkenny,Free,0,0,0,0,0,0,South-East,2634
-St Stephens Green,Dublin,Free,0,0,0,0,0,0,Dublin,0
-Swiss Cottage,Co. Tipperary,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00
-Please note there are no credit and debit card facilities at this site.",5,4,4,3,3,13,South-East,24146
-Teach An Phiarsaigh (Patrick Peasrse's Cottage),Co. Galway,"Adult: EUR 5.00
-Sen/Group: EUR 4.00
-Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,West,8946
 Ionad an Bhlascaoid Mhoir (The Blasket Centre),Co. Kerry,"Adult: EUR 5.00
 Sen/Group: EUR 4.00
 Child/Student: EUR 3.00
 Family: EUR 13.00",5,4,4,3,3,13,South-West,48261
-The Croppies Acre,Dublin,Free,0,0,0,0,0,0,Dublin,0
-The Iveagh Gardens,Dublin,Free,0,0,0,0,0,0,Dublin,0
-The John F Kennedy Arboretum,Co. Wexford,"Adult: EUR 5.00
+Castletown House and Parklands,Co. Kildare,"Adult: EUR 10.00 -Guided
+              EUR 8.00 -Self-Guided 
+Senior Citizen/Group: 
+                 EUR 8.00 -Guided
+                 EUR 5.00 -Self-Guided 
+Students/Children: 
+                 EUR 5.00 -Guided
+                 EUR 3.50 -Self-Guided 
+Family: EUR 25.00 -Guided
+                EUR 15.00 -Self-Guided 
+",10,8,8,5,5,15,Midlands & East Coast,297691
+Maynooth Castle,Co. Kildare,Free,0,0,0,0,0,0,Midlands & East Coast,21843
+Dunmore Cave,Co. Kilkenny,"Adult: EUR 5.00
 Sen/Group: EUR 4.00
 Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-East,96910
-The Main Guard,Co. Tipperary,Free,0,0,0,0,0,0,South-East,7951
-The Wexford Wildfowl Reserve,Co. Wexford,Free,0,0,0,0,0,0,South-East,0
-Tintern Abbey,Co. Wexford,"Adult: EUR 5.00
+Family: EUR 13.00",5,4,4,3,3,13,South-East,43767
+Jerpoint Abbey,Co. Kilkenny,"Adult: EUR 5.00
 Sen/Group: EUR 4.00
 Child/Student: EUR 3.00
-Family: EUR 13.00",5,4,4,3,3,13,South-East,15227
+Family: EUR 13.00",5,4,4,3,3,13,South-East,23442
+Kilkenny Castle,Co. Kilkenny,"Adult: EUR 8.00 
+Senior/Group (20+): EUR 6.00 
+Student/Child (over 6): EUR 4.00 
+Family: EUR 20+S94.00 ",8,6,6,4,4,20,South-East,282588
+St Marys Church,Co. Kilkenny,Free,0,0,0,0,0,0,South-East,2634
+Emo Court,Co. Laois,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,13244
+Heywood Gardens,Co. Laois,Free,0,0,0,0,0,0,Midlands & East Coast,0
+Parke's Castle,Co. Leitrim,"Adult: EUR 5.00 
+Sen/Group: EUR 4.00 
+Child/Student: EUR 3.00 
+Family: EUR 13.00 ",5,4,4,3,3,13,North-West,16620
+Adare Castle,Co. Limerick,"Adult: EUR 6.00
+Child/Student/Senior EUR 5.00
+Family: EUR 15.00",6,5,5,5,5,15,Shannon,0
+Desmond Hall,Co. Limerick,Free,0,0,0,0,0,0,Shannon,11150
+Corlea Trackway Visitor Centre,Co. Longford,Free,0,0,0,0,0,0,Midlands & East Coast,5331
+Old Mellifont Abbey,Co. Louth,"Adult: EUR 5.00 
+Sen/Group: EUR 4.00 
+Child/Student: EUR 3.00 
+Family: EUR 13.00 ",5,4,4,3,3,13,Midlands & East Coast,12493
+Ceide Fields,Co. Mayo,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,West,32821
+Battle of the Boyne,Co. Meath,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00
+Free admission to the grounds (battlesite walkways).",5,4,4,3,3,13,Midlands & East Coast,58053
+Bru na Boinne Visitor Centre Newgrange and Knowth,Co. Meath,"A Adult: EUR 4.00
+Sen/Group: EUR 3.00
+Child/Student: EUR 3.00
+Family: EUR 10.00
+
+B Adult: EUR 7.00
+Sen/Group: EUR 6.00
+Child/Student EUR 4.00
+Family: EUR 16.00
+
+C Adult: EUR 6.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 4.00
+Family: EUR 14.00
+
+D Adult: EUR 12.00
+Sen/Group: EUR 9.00
+Child/Student: EUR 7.00
+Family: EUR 30.00
+
+Debit and Credit Cards accepted.",12,9,9,7,7,30,Midlands & East Coast,263887
+Hill of Tara,Co. Meath,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,159686
+Loughcrew,Co. Meath,Free,0,0,0,0,0,0,Midlands & East Coast,14416
 Trim Castle,Co. Meath,"Including the Keep
 Adult: EUR 5.00
 Sen/Group: EUR 4.00
@@ -393,5 +263,135 @@ Adult: EUR 2.00
 Sen/Group: EUR 1.00
 Child/Student: EUR 1.00
 Family: EUR 4.00",5,4,4,3,3,13,Midlands & East Coast,86972
-War Memorial Gardens,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Clonmacnoise,Co. Offaly,"Adult: EUR 8.00 
+Group/Senior: EUR 6.00 
+Child/Student: EUR 4.00 
+Family: EUR 20.00 
+Credit/Debit Cards are both accepted. 
+
+All groups must be pre-booked.",8,6,6,4,4,20,Midlands & East Coast,157660
+Boyle Abbey,Co. Roscommon,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,West,6919
+Carrowmore Megalithic Cemetery,Co. Sligo,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,North-West,37566
+Sligo Abbey,Co. Sligo,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,North-West,15592
+Cahir Castle,Co. Tipperary,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00
+Please note there are no credit and debit card facilities at this site.",5,4,4,3,3,13,South-East,68532
+Famine Warhouse,Co. Tipperary,Free,0,0,0,0,0,0,South-East,0
+Ormond Castle,Co. Tipperary,"Adult: EUR 5.00 
+Sen/Group: EUR 4.00 
+Child/Student: EUR 3.00 
+Family: EUR 13.00 ",5,4,4,3,3,13,South-East,0
+Rock of Cashel,Co. Tipperary,"Adult: EUR 8.00 
+Group/Senior: EUR 6.00 
+Child/Student: EUR 4.00 
+Family: EUR 20.00",8,6,6,4,4,20,South-East,300749
+Roscrea Heritage Centre - Roscrea Castle and Damer House,Co. Tipperary,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,25715
+Swiss Cottage,Co. Tipperary,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00
+Please note there are no credit and debit card facilities at this site.",5,4,4,3,3,13,South-East,24146
+The Main Guard,Co. Tipperary,Free,0,0,0,0,0,0,South-East,7951
+Dungarvan Castle,Co. Waterford,Free,0,0,0,0,0,0,South-East,17280
+Reginalds Tower,Co. Waterford,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,South-East,30818
+"Reginald's Tower - Greyfriars, The French Church",Co. Waterford,,0,0,0,0,0,0,South-East,69057
+Ballyhack Castle,Co. Wexford,Free,0,0,0,0,0,0,South-East,2613
+Ferns Castle,Co. Wexford,Free,0,0,0,0,0,0,South-East,9440
+The John F Kennedy Arboretum,Co. Wexford,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,South-East,96910
+The Wexford Wildfowl Reserve,Co. Wexford,Free,0,0,0,0,0,0,South-East,0
+Tintern Abbey,Co. Wexford,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,South-East,15227
+Dwyer McAllister Cottage,Co. Wicklow,Free,0,0,0,0,0,0,Midlands & East Coast,0
+Glendalough Visitor Centre,Co. Wicklow,"Adult: EUR 5.00
+Sen/Group: EUR 4.00
+Child/Student: EUR 3.00
+Family: EUR 13.00",5,4,4,3,3,13,Midlands & East Coast,79182
+Kilmacurragh Arboretum,Co. Wicklow,Free,0,0,0,0,0,0,Midlands & East Coast,67083
 Wicklow Mountains National Park,Co. Wicklow,Free,0,0,0,0,0,0,Midlands & East Coast,150125
+Aras an Uachtarain,Dublin,"Free admission tickets are issued at the Phoenix Park Visitor Centre only on the day, on a first-come, first-served basis. Group visits and/or advance bookings are not permitted.",0,0,0,0,0,0,Dublin,4343
+Arbour Hill Cemetery,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Casino Marino,Dublin,"Adult: EUR 7.00 
+Sen/Group: EUR 5.00 
+Child/Student: EUR 3.00 
+Family: EUR 12.00 
+OPW, English and Friends of Manx Heritage Cards + Dublin Pass accepted. 
+
+Free admission for Primary or Second Level pupils, as well as pupils attending special needs schools or special needs classes. For terms and conditions see our Home page under Free Educational Visits for Schools Scheme.",7,5,5,3,3,12,Dublin,18141
+Dublin Castle,Dublin,"Guided Tour (1hr 5min) (State Apartments, Medieval Undercroft and Chapel Royal) 
+Adult: EUR 10.00
+Student/Senior (60+): EUR 8.00
+Group: EUR 5.50
+Children: EUR 4.00
+Family: EUR 24.00
+
+Self-Guide (State Apartments and Exhibitions) 
+Adult: EUR 7.00
+Student/Senior (60+): EUR 6.00
+Group: EUR 5.50
+Children: EUR 3.00
+Family: EUR 17.00",10,8,6,4,8,24,Dublin,231178
+Farmleigh House and Estate,Dublin,Free,0,0,0,0,0,0,Dublin,410076
+Garden of Remembrance,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Government Buildings,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Grangegorman Military Cemetery,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Kilmainham Gaol,Dublin,"Online prices:
+Adult: EUR 8.00
+Senior: EUR 6.00
+Child/Student: EUR 4.00
+Family: EUR 20.00
+
+Walk-in prices:
+Adult: EUR 9.00
+Senior: EUR 7.00
+Child/Student: EUR 5.00
+Family: EUR 23.00
+Please note that these tickets are very limited and it is advisable to book your tickets in advance. 
+
+Credit/Debit cards are both accepted.",9,7,9,5,5,23,Dublin,326635
+Lusk Heritage Centre,Dublin,Free,0,0,0,0,0,0,Midlands & East Coast,0
+National Botanic Gardens,Dublin,"Free admission.
+
+Pre-booked Guided Tours - EUR 5.00, except for the free Sunday public tours. School tours are free of charge. Two public tours on weekdays: 11:30 and 15:00
+ 
+Car parking charges:
+First 15mins free
+First hour EUR 1.00
+Two hours EUR 2.00, 
+then EUR 2.00 per hour",0,0,0,0,0,0,Dublin,553348
+Pearse Museum - St Enda's Park,Dublin,Free,0,0,0,0,0,0,Dublin,35418
+Peoples Flower Gardens,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Phoenix Park,Dublin,Free,0,0,0,0,0,0,Dublin,0
+Phoenix Park Visitor Centre - Ashtown Castle,Dublin,Free,0,0,0,0,0,0,Dublin,141582
+Rathfarnham Castle,Dublin,"Adult: EUR 8.00
+Sen/Group: EUR 6.00
+Child/Student: EUR 4.00
+Family: EUR 20.00",8,6,6,4,4,20,Dublin,3737
+Royal Hospital Kilmainham,Dublin,Free,0,0,0,0,0,0,Dublin,0
+St Audoen's Church,Dublin,Free,0,0,0,0,0,0,Dublin,33092
+St Marys Abbey Dublin,Dublin,Free,0,0,0,0,0,0,Dublin,0
+St Stephens Green,Dublin,Free,0,0,0,0,0,0,Dublin,0
+The Croppies Acre,Dublin,Free,0,0,0,0,0,0,Dublin,0
+The Iveagh Gardens,Dublin,Free,0,0,0,0,0,0,Dublin,0
+War Memorial Gardens,Dublin,Free,0,0,0,0,0,0,Dublin,0
