@@ -7,12 +7,12 @@ Email: G00376300@gmit.ie
 Dates: November and December 2019
 
 • Choose a real-world phenomenon that can be measured and for which you could
-collect at least one-hundred data points across at least four different variables.
+collect at least one-hundred data points across at least four different variables.<br>
 • Investigate the types of variables involved, their likely distributions, and their
-relationships with each other.
-• Synthesise/simulate a data set as closely matching their properties as possible.
+relationships with each other.<br>
+• Synthesise/simulate a data set as closely matching their properties as possible.<br>
 • Detail your research and implement the simulation in a Jupyter notebook – the
-data set itself can simply be displayed in an output cell within the notebook.
+    data set itself can simply be displayed in an output cell within the notebook.<br>
 
 ## Plan for ProgDA Project based on the marking scheme
 Intial Steps: Creategithub repository, create notebook, prepare project plan.<br>
@@ -59,6 +59,9 @@ https://dfrieds.com/<br>
 
 How do I fix a Unicode error while reading a CSV file with a pandas library in Python 3.6?<br>
 https://www.quora.com/How-do-I-fix-a-Unicode-error-while-reading-a-CSV-file-with-a-pandas-library-in-Python-3-6<br>
+
+How to Perform Exploratory Data Analysis with Seaborn<br>
+https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d<br>
 
 How to prevent overlapping x-axis labels in sns.countplot
 https://stackoverflow.com/questions/42528921/how-to-prevent-overlapping-x-axis-labels-in-sns-countplot<br>
