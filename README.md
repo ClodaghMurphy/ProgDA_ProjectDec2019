@@ -72,8 +72,14 @@ https://stackoverflow.com/questions/47917943/how-to-select-several-rows-when-rea
 OPW OPEN DATA SETS<br>
 https://www.opw.ie/en/opendata/#d.en.34620<br>
 
+pandas bar chart: use aggregated output as x-axis and colors for each group<br>
+https://stackoverflow.com/questions/49951039/pandas-bar-chart-use-aggregated-output-as-x-axis-and-colors-for-each-group<br>
+
 Python | Pandas Split strings into two List/Columns using str.split()<br>
 https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/<br>
+
+Range (Statistics)<br>
+https://explorable.com/range-in-statistics<br>
 
 The Pandas DataFrame – loading, editing, and viewing data in Python<br>
 https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/<br>
