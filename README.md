@@ -50,36 +50,3 @@ You are running the Jupyter server and can use it to open and engage with my rep
 ## 4. Summary of the Assessment
 
 ## 5. References used in completing the project
-
-Changing data type in pandas<br>
-https://www.ritchieng.com/pandas-changing-datatype/<br>
-
-Dan Friedman's Data Science Knowledge Base
-https://dfrieds.com/<br>
-
-How do I fix a Unicode error while reading a CSV file with a pandas library in Python 3.6?<br>
-https://www.quora.com/How-do-I-fix-a-Unicode-error-while-reading-a-CSV-file-with-a-pandas-library-in-Python-3-6<br>
-
-How to Perform Exploratory Data Analysis with Seaborn<br>
-https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d<br>
-
-How to prevent overlapping x-axis labels in sns.countplot
-https://stackoverflow.com/questions/42528921/how-to-prevent-overlapping-x-axis-labels-in-sns-countplot<br>
-
-How to select several rows when reading a csv file using pandas?<br>
-https://stackoverflow.com/questions/47917943/how-to-select-several-rows-when-reading-a-csv-file-using-pandas<br>
-
-OPW OPEN DATA SETS<br>
-https://www.opw.ie/en/opendata/#d.en.34620<br>
-
-pandas bar chart: use aggregated output as x-axis and colors for each group<br>
-https://stackoverflow.com/questions/49951039/pandas-bar-chart-use-aggregated-output-as-x-axis-and-colors-for-each-group<br>
-
-Python | Pandas Split strings into two List/Columns using str.split()<br>
-https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/<br>
-
-Range (Statistics)<br>
-https://explorable.com/range-in-statistics<br>
-
-The Pandas DataFrame – loading, editing, and viewing data in Python<br>
-https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/<br>
