@@ -1,18 +1,10 @@
 # ProgDA_ProjectDec2019
-This repository contains an assessment submitted as GMIT Programming for Data Analysis Project, last commit 13 December 2019
+This repository contains an assessment submitted as GMIT Programming for Data Analysis Project, last commit 16 December 2019
 Course Higher Diploma in Data Analytics, GMIT, Ireland
 The Lecturer is Dr. Brian McGinley
 Author: Clodagh Murphy
 Email: G00376300@gmit.ie
 Dates: November and December 2019
-
-• Choose a real-world phenomenon that can be measured and for which you could
-collect at least one-hundred data points across at least four different variables.<br>
-• Investigate the types of variables involved, their likely distributions, and their
-relationships with each other.<br>
-• Synthesise/simulate a data set as closely matching their properties as possible.<br>
-• Detail your research and implement the simulation in a Jupyter notebook – the
-    data set itself can simply be displayed in an output cell within the notebook.<br>
 
 ## Plan for ProgDA Project based on the marking scheme
 Intial Steps: Creategithub repository, create notebook, prepare project plan.<br>
@@ -22,12 +14,14 @@ Consistency: Good planning and pragmatic attitude to work as evidenced by commit
 Documentation: Concise descriptions and plots of variables in the data set.<br>
 Conclusion: Summarise findings of the analysis.<br>
 
-## 1. Introduction
-The assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter.
-It consists of a jupyter notebook that uses descriptive statistics and plots to describe the tips dataset.
-The notebook also contains a section that discusses and analyses whether there is a relationship between 
-(a) the total bill and tip amount and 
-(b) the variables within the dataset generally. 
+## 1. Description of the Project
+• Choose a real-world phenomenon that can be measured and for which you could
+collect at least one-hundred data points across at least four different variables.<br>
+• Investigate the types of variables involved, their likely distributions, and their
+relationships with each other.<br>
+• Synthesise/simulate a data set as closely matching their properties as possible.<br>
+• Detail your research and implement the simulation in a Jupyter notebook – the
+    data set itself can simply be displayed in an output cell within the notebook.<br> 
 
 ## 2. Instructions for downloading this repository
 Log on to GitHub and search for user ClodaghMurphy, the repository is entitled ProgDA_ProjectDec2019.<br>
@@ -47,6 +41,3 @@ http://localhost:8888/?token=XXXXXYYYYY123456789<br>
 Chrome and firefox are the optimal web browsers to use and you may need to copy the url into one of these instead of using the default<br> pop-up.<br>
 You are running the Jupyter server and can use it to open and engage with my repository contents.<br>
 
-## 4. Summary of the Assessment
-
-## 5. References used in completing the project
